@@ -1,4 +1,4 @@
-name: 'Trellis Deploy'
+name: 'Github Trellis Deploy Action'
 description: |
   Deploy Trellis, Bedrock and Sage(optional) via Github Actions
 branding:
